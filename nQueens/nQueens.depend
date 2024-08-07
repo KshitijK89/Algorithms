@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1723022025 source:c:\1ga22cs090\nqueens\main.c
+	<stdio.h>
+	<stdlib.h>
+
